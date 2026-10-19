@@ -1,0 +1,5 @@
+"row_kind","date","case","written_notes","midi_pitches","rate_hz","channels","bits","frames","wav_bytes","midi_bytes","pair_identity","context_or_next_check"
+"measured","2026-10-18","sharps","F#4 G#4 A#4 F#4","66 68 70 66","48000","1","16","96000","192044","69","equal","Constructed source, not detected notes"
+"measured","2026-10-18","flats","Gb4 Ab4 Bb4 Gb4","66 68 70 66","48000","1","16","96000","192044","69","equal","Identical PCM/MIDI; XML spelling differs"
+"recommendation","2026-10-18","","","","","","","","","","","Check pitches against audio; choose spelling with musical context"
+"blank-observation","","","","","","","","","","","",""

@@ -1,0 +1,15 @@
+{
+  "sourceDate": "2026-10-18",
+  "method": "Own constructed MusicXML pitch fields, equal-tempered sine PCM, and minimal note-event MIDI; not an automatic transcription test",
+  "expectedMidiPitches": [66, 68, 70, 66],
+  "expectedWav": { "sampleRateHz": 48000, "channels": 1, "bitsPerSample": 16, "frames": 96000 },
+  "files": {
+    "flats.mid": { "bytes": 69, "sha256": "3515f26d717445f146f04f567d0e8ee86c6651e5f0a58c6c25466db53a7a7258" },
+    "flats.musicxml": { "bytes": 1015, "sha256": "66fb5e069890c4f4604b397176fa492a8f9c17bc3c8e361526a458390734ee16" },
+    "flats.wav": { "bytes": 192044, "sha256": "a712cb93617001d99ce7cff53863865ad62853c9b2fca1bb8e3684e7058797ff" },
+    "score-check.csv": { "bytes": 654, "sha256": "76f56d27a0192125822124267052852603bf500ef1ec147413420e539c1992bf" },
+    "sharps.mid": { "bytes": 69, "sha256": "3515f26d717445f146f04f567d0e8ee86c6651e5f0a58c6c25466db53a7a7258" },
+    "sharps.musicxml": { "bytes": 1011, "sha256": "3ca4af94799b304fd172a8c1e179c42602561528540ae438e9e55805e1f3942d" },
+    "sharps.wav": { "bytes": 192044, "sha256": "a712cb93617001d99ce7cff53863865ad62853c9b2fca1bb8e3684e7058797ff" }
+  }
+}
